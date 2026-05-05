@@ -4,6 +4,13 @@ This repository contains a public project summary of my Certificate in Quantitat
 
 The original submission was completed as an exam/project deliverable, so the full report, code, datasets, selected instruments, and course-specific materials are not included here. This README summarizes the research objective, methodology, findings, and limitations at a high level for portfolio and discussion purposes.
 
+## Disclaimer
+
+This repository is for educational and portfolio purposes only.
+
+The full CQF submission, code, datasets, selected instruments, and course-specific materials are not included. This README is a public-facing summary of the project methodology and findings. Nothing here should be interpreted as investment advice, a trading recommendation, or a production-ready investment strategy.
+
+
 ## Project Overview
 
 This project investigated whether statistically identified cointegrated relationships could be used to construct a systematic mean-reversion trading strategy with positive out-of-sample performance.
@@ -202,9 +209,3 @@ This project reflects several core quantitative finance skills:
 - implementation-aware research design
 
 The main takeaway was not simply that a strategy appeared profitable in a backtest, but that systematic trading research must be evaluated through robustness, regime sensitivity, and realistic implementation constraints.
-
-## Disclaimer
-
-This repository is for educational and portfolio purposes only.
-
-The full CQF submission, code, datasets, selected instruments, and course-specific materials are not included. This README is a public-facing summary of the project methodology and findings. Nothing here should be interpreted as investment advice, a trading recommendation, or a production-ready investment strategy.
